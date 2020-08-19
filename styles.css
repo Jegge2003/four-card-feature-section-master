@@ -1,0 +1,198 @@
+#calculator {
+    margin: 20px 0 0 230px;
+}
+
+#teambuilder {
+    margin: 20px 0 0 230px;
+}
+
+
+#karma {
+    margin: 20px 0 0 230px;
+}
+
+
+#supervisor {
+    margin: 20px 0 0 230px;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: Gray;
+    font-weight: 400;
+}
+
+.card-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+
+.card-body {
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+
+.team {
+    margin: 220px 0 -100px 620px;
+    position: absolute;
+    widows: 60px;
+}
+
+.calculator {
+    margin: 350px 0 0 1000px;
+    position: absolute;
+    widows: 60px;
+}
+
+.karma {
+    margin: 500px 0 0 620px;
+    position: absolute;
+    widows: 60px;
+}
+
+.supervisor {
+    margin: 350px 0 0 230px;
+    position: absolute;
+    widows: 60px;
+}
+
+.card {
+    height: 250px;
+    width: 350px;
+}
+
+#reliable {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: Gray;
+    font-weight: 200;
+    text-align: center;
+}
+
+#powered {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: hsl(234, 12%, 34%);
+    font-weight: 700;
+    text-align: center;
+}
+
+#our {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: Gray;
+    text-align: center;
+    /*width: 500px;
+    margin-left: 540px;*/
+}
+
+@media (min-width:1200px) and (max-width:1387px) {
+    .supervisor {
+        margin: 350px 0 0 30px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .team {
+        margin: 220px 0 -100px 420px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .calculator {
+        margin: 350px 0 0 800px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .karma {
+        margin: 500px 0 0 420px;
+        position: absolute;
+        widows: 60px;
+    }
+
+}
+
+@media (min-width:900px) and (max-width:1200px) {
+    .supervisor {
+        margin: 150px 0 0 420px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .team {
+        margin: 420px 0 -100px 420px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .calculator {
+        margin: 980px 0 0 420px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .karma {
+        margin: 700px 0 0 420px;
+        position: absolute;
+        widows: 60px;
+    }
+
+}
+
+@media (min-width:700px) and (max-width:900px) {
+    .supervisor {
+        margin: 170px 0 0 320px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .team {
+        margin: 440px 0 -100px 320px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .calculator {
+        margin: 1000px 0 0 320px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .karma {
+        margin: 720px 0 0 320px;
+        position: absolute;
+        widows: 60px;
+    }
+
+}
+
+
+@media (min-width:400px) and (max-width:700px) {
+    .supervisor {
+        margin: 170px 0 0 120px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .team {
+        margin: 440px 0 -100px 120px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .calculator {
+        margin: 1000px 0 0 120px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .karma {
+        margin: 720px 0 0 120px;
+        position: absolute;
+        widows: 60px;
+    }
+
+}
