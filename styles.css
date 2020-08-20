@@ -277,5 +277,38 @@ p {
         margin: 20px 0 0 200px;
     }
 
+    
+    #style-supervisor{
+        width: 350px;
+        height: 5px; 
+        background-color:hsl(180, 62%, 55%);
+        margin-top: -20px;
+        margin-left: -21px;
+    }
+
+    #style-karma{
+        width: 350px;
+        height: 5px; 
+        background-color:hsl(34, 97%, 64%);
+        margin-top: -20px;
+        margin-left: -21px;
+    }
+
+    #style-team{
+        width: 350px;
+        height: 5px; 
+        background-color:hsl(0, 78%, 62%);
+        margin-top: -20px;
+        margin-left: -21px;
+    }
+
+    #style-calculator{
+        width: 350px;
+        height: 5px; 
+        background-color:hsl(212, 86%, 64%);
+        margin-top: -20px;
+        margin-left: -21px;
+    }
+
 
 }
