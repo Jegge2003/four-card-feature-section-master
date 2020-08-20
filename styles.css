@@ -198,25 +198,25 @@ p {
 
 @media (max-width:450px) {
     .supervisor {
-        margin: 300px 0 0 47px;
+        margin: 300px 0 0 30px;
         position: absolute;
         widows: 60px;
     }
 
     .team {
-        margin: 570px 0 -100px 47px;
+        margin: 570px 0 -100px 30px;
         position: absolute;
         widows: 60px;
     }
 
     .calculator {
-        margin: 1130px 0 0 47px;
+        margin: 1130px 0 0 30px;
         position: absolute;
         widows: 60px;
     }
 
     .karma {
-        margin: 850px 0 0 47px;
+        margin: 850px 0 0 30px;
         position: absolute;
         widows: 60px;
     }
