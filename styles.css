@@ -279,7 +279,7 @@ p {
 
     
     #style-supervisor{
-        width: 350px;
+        width: 310px;
         height: 5px; 
         background-color:hsl(180, 62%, 55%);
         margin-top: -20px;
@@ -287,7 +287,7 @@ p {
     }
 
     #style-karma{
-        width: 350px;
+        width: 310px;
         height: 5px; 
         background-color:hsl(34, 97%, 64%);
         margin-top: -20px;
@@ -295,7 +295,7 @@ p {
     }
 
     #style-team{
-        width: 350px;
+        width: 310px;
         height: 5px; 
         background-color:hsl(0, 78%, 62%);
         margin-top: -20px;
@@ -303,7 +303,7 @@ p {
     }
 
     #style-calculator{
-        width: 350px;
+        width: 310px;
         height: 5px; 
         background-color:hsl(212, 86%, 64%);
         margin-top: -20px;
