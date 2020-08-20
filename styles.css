@@ -84,8 +84,6 @@ p {
     font-size: 15px;
     color: Gray;
     text-align: center;
-    /*width: 500px;
-    margin-left: 540px;*/
 }
 
 @media (min-width:1200px) and (max-width:1387px) {
@@ -170,7 +168,7 @@ p {
 }
 
 
-@media (min-width:400px) and (max-width:700px) {
+@media (min-width:450px) and (max-width:700px) {
     .supervisor {
         margin: 170px 0 0 120px;
         position: absolute;
@@ -194,5 +192,58 @@ p {
         position: absolute;
         widows: 60px;
     }
+
+}
+
+
+@media (max-width:450px) {
+    .supervisor {
+        margin: 300px 0 0 47px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .team {
+        margin: 570px 0 -100px 47px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .calculator {
+        margin: 1130px 0 0 47px;
+        position: absolute;
+        widows: 60px;
+    }
+
+    .karma {
+        margin: 850px 0 0 47px;
+        position: absolute;
+        widows: 60px;
+    }
+
+
+    .card {
+        height: 250px;
+        width: 310px;
+    }
+
+    #calculator {
+        margin: 20px 0 0 200px;
+    }
+
+    #teambuilder {
+        margin: 20px 0 0 200px;
+    }
+
+
+    #karma {
+        margin: 20px 0 0 200px;
+    }
+
+
+    #supervisor {
+        margin: 20px 0 0 200px;
+    }
+
 
 }
